@@ -198,9 +198,7 @@ body{
               float: left;
                 text-align: left;
                         }
-            head #logo div img{
-              /* animation: rotation 2s infinite linear ; animation: rotation 2s infinite linear ; */
-            }            
+                     
             header #logo div{
               animation: rotation 3s infinite linear ;
               width: 45px;
@@ -269,10 +267,7 @@ body{
            }
 
 /* extra work */
-       main:hover{
-         /* bottom: 15%; */
-         /*  */
-       }    
+           
            /* SONGS CONTAINER */
            #songsContainer{
                           background-color: transparent;
